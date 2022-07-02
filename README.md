@@ -7,8 +7,6 @@ Here, I am Creating DJ_Restaurent website for future ready talent intern program
 ![image](https://user-images.githubusercontent.com/92597790/175769121-8a32ce87-84ae-4c82-9208-21c43fcf2483.png)
 ![image](https://user-images.githubusercontent.com/92597790/175769145-4aed1662-d4c9-46b9-88d6-75c070dfdb97.png)
 ![image](https://user-images.githubusercontent.com/92597790/175769153-131b2b38-b529-4e6c-a362-7faf46c2d50d.png)
-![Uploading image.png…]()
-
 
 
 
